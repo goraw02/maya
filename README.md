@@ -75,8 +75,7 @@ A high-quality render of the tennis court showcasing the final output.
 ---
 
 ## Author
-- **Name**: Aman Jangir
-- **Email**: [Your Email Here]
-- **Portfolio/LinkedIn**: [Your Links Here]
+- **Name**: Gaurav Lal
+- **Email**: gaurav.lal02@gmail.com
 
 Feel free to use or adapt this project. Contributions and feedback are welcome!
