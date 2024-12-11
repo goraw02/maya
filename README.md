@@ -1,4 +1,4 @@
-# maya# Tennis Court 3D Modeling Project
+# Tennis Court 3D Modeling Project
 
 A 3D tennis court model created using **Autodesk Maya**. This project showcases skills in 3D modeling, texturing, lighting, and scene composition.
 
